@@ -6,6 +6,9 @@ updates:
     directory: "/"
     schedule:
       interval: "weekly"
+    groups:
+      dependencies:
+        patterns: ["*"] 
     labels:
       - "dependencies"
     pull-request-branch-name:
@@ -14,6 +17,9 @@ updates:
     directory: "/"
     schedule:
       interval: "weekly"
+    groups:
+      actions:
+        patterns: ["*"] 
     labels:
       - "actions"
     pull-request-branch-name:
