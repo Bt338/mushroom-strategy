@@ -2,7 +2,7 @@ import * as de from '../translations/de.json';
 import * as en from '../translations/en.json';
 import * as es from '../translations/es.json';
 import * as nl from '../translations/nl.json';
-import * as pt-br from '../translations/pt-br.json';
+import * as pt_br from '../translations/pt-BR.json';
 import { HomeAssistant } from '../types/homeassistant/types';
 import { logMessage, lvlWarn } from './debug';
 
@@ -12,7 +12,7 @@ const languages: Record<string, unknown> = {
   en,
   es,
   nl,
-  pt-br
+  'pt-BR': pt_br,
 };
 
 /** The fallback language if the user-defined language isn't defined */
@@ -52,7 +52,7 @@ let _localize: ((key: string) => string) | undefined = undefined;
  * It reads the user-defined language with a fall-back to English and returns a function to get strings from
  * language-files by keyword.
  *
- * If the keyword is undefined, or on error, the keyword itself is returned.
+ * If the keyword is undefined, or on an error, the keyword itself is returned.
  *
  * @param {HomeAssistant} hass The Home Assistant object.
  */
