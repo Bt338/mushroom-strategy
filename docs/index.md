@@ -45,4 +45,3 @@ engage with the community!
 ⭐ [star on GitHub](https://github.com/DigiLive/mushroom-strategy) and exploring ways
 to ❤️ [sponsor the project](https://github.com/sponsors/DigiLive) to support its continued development! Your support
 helps us grow and improve.
-
