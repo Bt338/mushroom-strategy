@@ -1,4 +1,4 @@
-# Please click the `Preview` tab and select the type of Pull Request you are submitting
+# Click the `Preview` tab and select the type of Pull Request you are submitting
 
 - [Bug Fix](?expand=1&template=bugfix.md)
 - [Feature](?expand=1&template=feature.md)
