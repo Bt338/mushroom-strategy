@@ -1,0 +1,82 @@
+{
+  "camera": {
+    "all_cameras": "Összes kamera",
+    "cameras": "Kamera"
+  },
+  "climate": {
+    "all_climates": "Összes klíma",
+    "climates": "Klíma"
+  },
+  "cover": {
+    "all_covers": "Összes redőny",
+    "covers": "Redőny"
+  },
+  "fan": {
+    "all_fans": "Összes ventillátor",
+    "fans": "Ventillátor"
+  },
+  "generic": {
+    "all": "Összes",
+    "areas": "Területek",
+    "busy": "működik",
+    "good_afternoon": "Jó napot",
+    "good_evening": "Jó estét",
+    "good_morning": "Jó reggelt",
+    "hello": "Hello",
+    "home": "Otthon",
+    "miscellaneous": "Egyéb",
+    "numbers": "Számok",
+    "off": "Ki",
+    "on": "Be",
+    "open": "Nyitva",
+    "unavailable": "Nem áll rendelkezésre",
+    "unclosed": "nem zárt",
+    "undisclosed": "Egyéb",
+    "unknown": "Ismeretlen"
+  },
+  "input_select": {
+    "input_selects": "Bemenet választás"
+  },
+  "light": {
+    "all_lights": "Összes világítás",
+    "lights": "Lámpa"
+  },
+  "lock": {
+    "all_locks": "Összes zár",
+    "locked": "Zárva",
+    "locks": "Zárak",
+    "unlocked": "Nyitva"
+  },
+  "media_player": {
+    "media_players": "Médialejátszó"
+  },
+  "scene": {
+    "scenes": "Jelenetek"
+  },
+  "select": {
+    "selects": "Kiválasztva"
+  },
+  "sensor": {
+    "binary": "Kétállapotú",
+    "sensors": "Szenzor"
+  },
+  "switch": {
+    "all_switches": "Összes kapcsoló",
+    "chip_confirmation": "Figyelem: Ez a művelet az összes kapcsolót lekapcsolja. Biztosan Folytatja?",
+    "switches": "Kapcsoló"
+  },
+  "vacuum": {
+    "all_vacuums": "Összes porszívó",
+    "vacuums": "Porszívó"
+  },
+  "valve": {
+    "all_valves": "Összes szelep",
+    "valves": "Szelep",
+    "open": "Nyitva",
+    "opening": "Nyitás",
+    "closed": "Zárva",
+    "closing": "Zárás",
+    "stopped": "Megállt",
+    "unclosed": "Nyitott"
+  }
+}
