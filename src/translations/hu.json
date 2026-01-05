@@ -62,7 +62,7 @@
   },
   "switch": {
     "all_switches": "Összes kapcsoló",
-    "chip_confirmation": "Figyelem: Ez a művelet az összes kapcsolót lekapcsolja. Biztosan Folytatja?",
+    "chip_confirmation": "Figyelem: Ez a művelet az összes kapcsolót lekapcsolja. Biztosan folytatja?",
     "switches": "Kapcsoló"
   },
   "vacuum": {
