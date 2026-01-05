@@ -75,8 +75,8 @@
     "open": "Nyitva",
     "opening": "Nyitás",
     "closed": "Zárva",
-    "closing": "Zárás",
+"closing": "Zárás",
     "stopped": "Megállt",
-    "unclosed": "Nyitott"
+    "unclosed": "nem zárt"
   }
 }
