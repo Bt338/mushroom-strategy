@@ -33,6 +33,7 @@
     "@types/semver": "^7.7.1",
     "@typescript-eslint/eslint-plugin": "^8.48.0",
     "@typescript-eslint/parser": "^8.32.1",
+    "bumpp": "^10.3.2",
     "eslint": "^9.39.1",
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-prettier": "^5.5.4",
@@ -46,7 +47,6 @@
     "ts-loader": "^9.5.4",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3",
-    "version-bump-prompt": "^6",
     "webpack": "^5.103.0",
     "webpack-cli": "^6.0.1"
   },
@@ -58,7 +58,7 @@
     "md:lint:fix": "markdownlint-cli2 \"**/*.md\" \"#node_modules\" \"#dist\" --fix",
     "build-dev": "webpack --config webpack.dev.config.ts",
     "build": "webpack",
-    "bump": "bump --preid alpha package.json package-lock.json README.md ./docs/index.md ./src/mushroom-strategy.ts",
+    "bump": "bumpp --preid alpha --no-commit --no-tag --no-push package.json package-lock.json README.md ./docs/index.md ./src/mushroom-strategy.ts",
     "prepare": "is-ci || husky"
   }
 }
