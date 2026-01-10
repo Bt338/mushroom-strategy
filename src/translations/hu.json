@@ -1,24 +1,24 @@
 {
   "camera": {
     "all_cameras": "Összes kamera",
-    "cameras": "Kamera"
+    "cameras": "Kamerák"
   },
   "climate": {
     "all_climates": "Összes klíma",
-    "climates": "Klíma"
+    "climates": "Klímák"
   },
   "cover": {
     "all_covers": "Összes redőny",
-    "covers": "Redőny"
+    "covers": "Redőnyök"
   },
   "fan": {
-    "all_fans": "Összes ventillátor",
-    "fans": "Ventillátor"
+    "all_fans": "Összes ventilátor",
+    "fans": "Ventilátorok"
   },
   "generic": {
     "all": "Összes",
     "areas": "Területek",
-    "busy": "működik",
+    "busy": "Foglalt",
     "good_afternoon": "Jó napot",
     "good_evening": "Jó estét",
     "good_morning": "Jó reggelt",
@@ -30,53 +30,53 @@
     "on": "Be",
     "open": "Nyitva",
     "unavailable": "Nem áll rendelkezésre",
-    "unclosed": "nem zárt",
+    "unclosed": "Nincs bezárva",
     "undisclosed": "Egyéb",
     "unknown": "Ismeretlen"
   },
   "input_select": {
-    "input_selects": "Bemenet választás"
+    "input_selects": "Bemenetválasztók"
   },
   "light": {
     "all_lights": "Összes világítás",
-    "lights": "Lámpa"
+    "lights": "Lámpák"
   },
   "lock": {
     "all_locks": "Összes zár",
     "locked": "Zárva",
     "locks": "Zárak",
-    "unlocked": "Nyitva"
+    "unlocked": "Nyitott"
   },
   "media_player": {
-    "media_players": "Médialejátszó"
+    "media_players": "Médialejátszók"
   },
   "scene": {
     "scenes": "Jelenetek"
   },
   "select": {
-    "selects": "Kiválasztva"
+    "selects": "Kiválasztások"
   },
   "sensor": {
     "binary": "Kétállapotú",
-    "sensors": "Szenzor"
+    "sensors": "Szenzorok"
   },
   "switch": {
     "all_switches": "Összes kapcsoló",
     "chip_confirmation": "Figyelem: Ez a művelet az összes kapcsolót lekapcsolja. Biztosan folytatja?",
-    "switches": "Kapcsoló"
+    "switches": "Kapcsolók"
   },
   "vacuum": {
     "all_vacuums": "Összes porszívó",
-    "vacuums": "Porszívó"
+    "vacuums": "Porszívók"
   },
   "valve": {
     "all_valves": "Összes szelep",
-    "valves": "Szelep",
+    "valves": "Szelepek",
     "open": "Nyitva",
     "opening": "Nyitás",
     "closed": "Zárva",
-"closing": "Zárás",
+    "closing": "Zárás",
     "stopped": "Megállt",
-    "unclosed": "nem zárt"
+    "unclosed": "Nincs zárva"
   }
 }
